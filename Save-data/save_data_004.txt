@@ -1,0 +1,3053 @@
+<Root>
+  achievements
+    1
+      achievement_c001 = 0
+      achievement_c002 = 0
+      achievement_c003 = 0
+      achievement_c004 = 0
+      achievement_c005 = 0
+      achievement_c006 = 0
+      achievement_c007 = 0
+      achievement_c008 = 0
+      achievement_c009 = 0
+      achievement_c010 = 0
+      achievement_c011 = 0
+      achievement_c012 = 0
+      achievement_c013 = 0
+      achievement_c014 = 0
+      achievement_c015 = 0
+      achievement_c016 = 0
+      achievement_c017 = 0
+      achievement_c018 = 0
+      achievement_c019 = 0
+      achievement_d001 = 0
+      achievement_d002 = 0
+      achievement_d003 = 0
+      achievement_d004 = 0
+      achievement_d005 = 0
+      achievement_d006 = 0
+      achievement_d007 = 0
+      achievement_d008 = 0
+      achievement_d009 = 0
+      achievement_d010 = 0
+      achievement_e001 = 0
+      achievement_e002 = 0
+      achievement_e003 = 0
+      achievement_e004 = 0
+      achievement_e005 = 0
+      achievement_e006 = 0
+      achievement_g001 = 0
+      achievement_g002 = 0
+      achievement_g003 = 0
+      achievement_g004 = 0
+      achievement_g005 = 0
+      achievement_g007 = 0
+      achievement_p001 = 0
+      achievement_p002 = 0
+      achievement_p003 = 0
+      achievement_p004 = 0
+      achievement_p005 = 0
+      achievement_p006 = 0
+      achievement_p007 = 0
+      achievement_p008 = 0
+      achievement_p009 = 0
+      achievement_p010 = 0
+      achievement_p011 = 0
+      achievement_p012 = 0
+      achievement_p013 = 0
+      achievement_p014 = 0
+      achievement_x001 = 0
+      achievement_x002 = 0
+      achievement_x003 = 0
+      achievement_x004 = 0
+      achievement_x005 = 0
+      anchor_item = 0
+      army_knife = 5
+      audio_log_collectible_01 = 0
+      audio_log_collectible_02 = 0
+      audio_log_collectible_03 = 0
+      audio_log_collectible_04 = 0
+      audio_log_collectible_05 = 0
+      audio_log_collectible_06 = 0
+      audio_log_collectible_07 = 0
+      audio_log_collectible_08 = 0
+      audio_log_collectible_09 = 0
+      audio_log_collectible_10 = 0
+      audio_log_collectible_11 = 0
+      axe_tier1 = 0
+      axe_tier2 = 0
+      axe_tier3 = 0
+      axe_tier4 = 0
+      bouncer_killed_midair = 0
+      cable_item = 0
+      chapter_1_complete = 0
+      charon_log_l_airfield_01 = 0
+      charon_log_l_helipad_01 = 0
+      charon_log_l_helipad_02 = 0
+      charon_log_l_jungle02_01 = 0
+      charon_log_l_jungle_01 = 0
+      charon_log_l_labs_01 = 0
+      charon_log_l_labs_02 = 0
+      charon_log_l_labs_03 = 0
+      charon_log_l_marina_01 = 0
+      charon_log_l_marina_02 = 0
+      charon_log_l_marina_03 = 0
+      charon_log_l_marina_04 = 0
+      charon_log_l_villa_01 = 0
+      charon_log_l_villa_02 = 0
+      charon_log_l_villa_03 = 0
+      charon_log_l_villa_04 = 0
+      deep_one = 0
+      dlc_pistol = 0
+      dlc_rifle = 0
+      dwellers_killed_by_hazard = 0
+      dwellers_killed_by_stealth_execute = 0
+      experiment_log_l_airfield_01 = 0
+      experiment_log_l_airfield_02 = 0
+      experiment_log_l_helipad_01 = 0
+      experiment_log_l_jungle02_01 = 0
+      experiment_log_l_jungle_01 = 0
+      experiment_log_l_labs_01 = 0
+      experiment_log_l_labs_02 = 0
+      experiment_log_l_labs_03 = 0
+      experiment_log_l_labs_04 = 0
+      experiment_log_l_marina_01 = 0
+      experiment_log_l_villa_01 = 0
+      experiment_log_l_villa_02 = 0
+      expert_butcher_killer = 0
+      expert_conviction = 0
+      expert_ninja = 0
+      expert_smorgasbord = 0
+      expert_thrillseeker = 0
+      gas_mask = 0
+      glock = 0
+      glock_tier2 = 3
+      katana_agent_zero = 5
+      keycard_dlc_01 = 5
+      keycard_dlc_02 = 5
+      keycard_dlc_03 = 5
+      keycard_dlc_04 = 5
+      keycard_red_01 = 3
+      kills_with_dummy_knife = 0
+      kills_with_fire_axe = 0
+      kills_with_pistol = 0
+      kills_with_rifle = 0
+      kills_with_unarmed = 0
+      lab_rat = 0
+      lost_story_board_photo = 0
+      lost_story_coins = 0
+      lost_story_crown_bobble = 0
+      lost_story_diploma = 0
+      lost_story_dogtag = 0
+      lost_story_escape_plan = 0
+      lost_story_id_card = 0
+      lost_story_newtoncradle = 0
+      lost_story_passport = 0
+      lost_story_secret_camera = 0
+      lost_story_teddy = 0
+      lost_story_watch = 0
+      military_flashlight = 0
+      mission01_completed = 0
+      mission02_completed = 0
+      mission03_completed = 0
+      mission04_completed = 0
+      mission05_completed = 0
+      mission06_completed = 0
+      mission07_completed = 0
+      mission08_completed = 0
+      mission09_completed = 0
+      mission10_completed = 0
+      mission11_completed = 0
+      new_game_plus_completed = 0
+      normal_game_completed = 0
+      note_l_airfield_01 = 0
+      note_l_airfield_02 = 0
+      note_l_beach_01 = 0
+      note_l_beach_02 = 0
+      note_l_helipad_01 = 0
+      note_l_helipad_02 = 0
+      note_l_helipad_03 = 0
+      note_l_jungle02_01 = 0
+      note_l_jungle02_02 = 0
+      note_l_jungle_01 = 0
+      note_l_jungle_02 = 0
+      note_l_jungle_03 = 0
+      note_l_jungle_04 = 0
+      note_l_labs_01 = 0
+      note_l_labs_02 = 0
+      note_l_labs_03 = 0
+      note_l_labs_04 = 0
+      note_l_marina_01 = 0
+      note_l_marina_02 = 0
+      note_l_marina_03 = 0
+      note_l_marina_04 = 0
+      note_l_marina_05 = 0
+      note_l_marina_06 = 0
+      note_l_marina_07 = 0
+      note_l_villa_01 = 0
+      note_l_villa_02 = 0
+      note_l_villa_03 = 0
+      note_l_villa_outside_01 = 0
+      num_ammo_packs = 12
+      num_audio_logs = 0
+      num_charon_logs = 0
+      num_experiment_logs = 0
+      num_lost_stories = 0
+      num_notes = 0
+      num_postcards = 0
+      num_snapshots = 0
+      pickup_axe_01 = 0
+      pickup_axe_02 = 0
+      pickup_axe_03 = 0
+      pickup_axe_04 = 0
+      pickup_dlc_pistol = 0
+      pickup_dlc_rifle = 0
+      pickup_pistol_01 = 0
+      pickup_pistol_02 = 0
+      pickup_shotgun_01 = 0
+      pickup_shotgun_02 = 0
+      pickup_stealth_weapon_01 = 0
+      pickup_stealth_weapon_02 = 0
+      pocket_camera = 0
+      postcard_l_airfield_01 = 0
+      postcard_l_beach_01 = 0
+      postcard_l_helipad_01 = 0
+      postcard_l_jungle02_01 = 0
+      postcard_l_jungle02_02 = 0
+      postcard_l_jungle_01 = 0
+      postcard_l_jungle_02 = 0
+      postcard_l_junglecliff_01 = 0
+      postcard_l_labs_01 = 0
+      postcard_l_labs_02 = 0
+      postcard_l_marina_01 = 0
+      postcard_l_marina_02 = 0
+      praise_the_light = 0
+      prologue_completed = 0
+      radio_item = 0
+      screwdriver_01 = 0
+      shotgun = 0
+      shotgun_tier2 = 0
+      siren_killed_while_screaming = 0
+      snapshot_collectible_01 = 0
+      snapshot_collectible_02 = 0
+      snapshot_collectible_03 = 0
+      snapshot_collectible_04 = 0
+      snapshot_collectible_05 = 0
+      snapshot_collectible_06 = 0
+      snapshot_collectible_07 = 0
+      snapshot_collectible_08 = 0
+      snapshot_collectible_09 = 0
+      snapshot_collectible_10 = 0
+      snapshot_collectible_11 = 0
+      snapshot_collectible_12 = 0
+      snapshot_collectible_14 = 0
+      snapshot_collectible_15 = 0
+      snapshot_collectible_17 = 0
+      snapshot_collectible_18 = 0
+      snapshot_collectible_20 = 0
+      snapshot_collectible_24 = 0
+      snapshot_collectible_25 = 0
+      snapshot_collectible_26 = 0
+      snapshot_collectible_27 = 0
+      snapshot_collectible_28 = 0
+      snapshot_collectible_29 = 0
+      snapshot_collectible_30 = 0
+      snapshot_collectible_31 = 0
+      snapshot_collectible_33 = 0
+      snapshot_collectible_34 = 0
+      snapshot_collectible_35 = 0
+      snapshot_collectible_36 = 0
+      snapshot_collectible_37 = 0
+      snapshot_collectible_38 = 0
+      snapshot_collectible_39 = 0
+      snapshot_collectible_41 = 0
+      snapshot_collectible_42 = 0
+      snapshot_collectible_43 = 0
+      snapshot_collectible_44 = 0
+      snapshot_collectible_45 = 0
+      snapshot_collectible_47 = 0
+      snapshot_collectible_49 = 0
+      snapshot_collectible_50 = 0
+      snapshot_collectible_51 = 0
+      snapshot_collectible_52 = 0
+      snapshot_collectible_53 = 0
+      snapshot_collectible_54 = 0
+      snapshot_collectible_56 = 0
+      snapshot_collectible_57 = 0
+      snapshot_collectible_58 = 0
+      snapshot_collectible_59 = 0
+      snapshot_collectible_61 = 0
+      snapshot_collectible_62 = 0
+      snapshot_collectible_63 = 0
+      snapshot_collectible_64 = 0
+      snapshot_collectible_65 = 0
+      snapshot_collectible_66 = 0
+      snapshot_collectible_67 = 0
+      snapshot_collectible_69 = 0
+      snapshot_collectible_70 = 0
+      snapshot_collectible_71 = 0
+      snapshot_collectible_72 = 0
+      snapshot_collectible_73 = 0
+      snapshot_collectible_74 = 0
+      snapshot_collectible_75 = 0
+      snapshot_collectible_76 = 0
+      snapshot_collectible_77 = 0
+      snapshot_collectible_78 = 0
+      snapshot_collectible_79 = 0
+      snapshot_collectible_80 = 0
+      snapshot_collectible_81 = 0
+      snapshot_collectible_82 = 0
+      snapshot_collectible_83 = 0
+      snapshot_collectible_84 = 0
+      snapshot_collectible_85 = 0
+      snapshot_collectible_86 = 0
+      snapshot_collectible_87 = 0
+      snapshot_collectible_88 = 0
+      snapshot_collectible_89 = 0
+      snapshot_collectible_90 = 0
+      snapshot_collectible_91 = 0
+      snapshot_collectible_92 = 0
+      snapshot_collectible_93 = 0
+      snapshot_collectible_94 = 0
+      snapshot_collectible_95 = 0
+      snapshot_collectible_96 = 0
+      snapshot_collectible_97 = 0
+      snapshot_collectible_98 = 0
+      snapshot_collectible_99 = 0
+      sorted_audio_logs = 0
+      spitter_killed_by_ranged = 0
+      unarmed = 5
+      zombies_killed = 32
+      zombies_killed_by_execute = 1
+      zombies_killed_by_melee = 23
+      zombies_killed_by_pistol_headshot = 0
+      zombies_killed_by_shotgun_close = 0
+      zombies_killed_by_stealth_execute = 8
+      zombies_killed_dlc_pistol_range = 0
+      zombies_killed_dlc_rifle = 0
+  cache
+    achievements
+      1
+        achievement_c001 = 0
+        achievement_c002 = 0
+        achievement_c003 = 0
+        achievement_c004 = 0
+        achievement_c005 = 0
+        achievement_c006 = 0
+        achievement_c007 = 0
+        achievement_c008 = 0
+        achievement_c009 = 0
+        achievement_c010 = 0
+        achievement_c011 = 0
+        achievement_c012 = 0
+        achievement_c013 = 0
+        achievement_c014 = 0
+        achievement_c015 = 0
+        achievement_c016 = 0
+        achievement_c017 = 0
+        achievement_c018 = 0
+        achievement_c019 = 0
+        achievement_d001 = 0
+        achievement_d002 = 0
+        achievement_d003 = 0
+        achievement_d004 = 0
+        achievement_d005 = 0
+        achievement_d006 = 0
+        achievement_d007 = 0
+        achievement_d008 = 0
+        achievement_d009 = 0
+        achievement_d010 = 0
+        achievement_e001 = 0
+        achievement_e002 = 0
+        achievement_e003 = 0
+        achievement_e004 = 0
+        achievement_e005 = 0
+        achievement_e006 = 0
+        achievement_g001 = 0
+        achievement_g002 = 0
+        achievement_g003 = 0
+        achievement_g004 = 0
+        achievement_g005 = 0
+        achievement_g007 = 0
+        achievement_p001 = 0
+        achievement_p002 = 0
+        achievement_p003 = 0
+        achievement_p004 = 0
+        achievement_p005 = 0
+        achievement_p006 = 0
+        achievement_p007 = 0
+        achievement_p008 = 0
+        achievement_p009 = 0
+        achievement_p010 = 0
+        achievement_p011 = 0
+        achievement_p012 = 0
+        achievement_p013 = 0
+        achievement_p014 = 0
+        achievement_x001 = 0
+        achievement_x002 = 0
+        achievement_x003 = 0
+        achievement_x004 = 0
+        achievement_x005 = 0
+        anchor_item = 0
+        army_knife = 4
+        audio_log_collectible_01 = 0
+        audio_log_collectible_02 = 0
+        audio_log_collectible_03 = 0
+        audio_log_collectible_04 = 0
+        audio_log_collectible_05 = 0
+        audio_log_collectible_06 = 0
+        audio_log_collectible_07 = 0
+        audio_log_collectible_08 = 0
+        audio_log_collectible_09 = 0
+        audio_log_collectible_10 = 0
+        audio_log_collectible_11 = 0
+        axe_tier1 = 0
+        axe_tier2 = 0
+        axe_tier3 = 0
+        axe_tier4 = 0
+        bouncer_killed_midair = 0
+        cable_item = 0
+        chapter_1_complete = 0
+        charon_log_l_airfield_01 = 0
+        charon_log_l_helipad_01 = 0
+        charon_log_l_helipad_02 = 0
+        charon_log_l_jungle02_01 = 0
+        charon_log_l_jungle_01 = 0
+        charon_log_l_labs_01 = 0
+        charon_log_l_labs_02 = 0
+        charon_log_l_labs_03 = 0
+        charon_log_l_marina_01 = 0
+        charon_log_l_marina_02 = 0
+        charon_log_l_marina_03 = 0
+        charon_log_l_marina_04 = 0
+        charon_log_l_villa_01 = 0
+        charon_log_l_villa_02 = 0
+        charon_log_l_villa_03 = 0
+        charon_log_l_villa_04 = 0
+        deep_one = 0
+        dlc_pistol = 0
+        dlc_rifle = 0
+        dwellers_killed_by_hazard = 0
+        dwellers_killed_by_stealth_execute = 0
+        experiment_log_l_airfield_01 = 0
+        experiment_log_l_airfield_02 = 0
+        experiment_log_l_helipad_01 = 0
+        experiment_log_l_jungle02_01 = 0
+        experiment_log_l_jungle_01 = 0
+        experiment_log_l_labs_01 = 0
+        experiment_log_l_labs_02 = 0
+        experiment_log_l_labs_03 = 0
+        experiment_log_l_labs_04 = 0
+        experiment_log_l_marina_01 = 0
+        experiment_log_l_villa_01 = 0
+        experiment_log_l_villa_02 = 0
+        expert_butcher_killer = 0
+        expert_conviction = 0
+        expert_ninja = 0
+        expert_smorgasbord = 0
+        expert_thrillseeker = 0
+        gas_mask = 0
+        glock = 0
+        glock_tier2 = 2
+        katana_agent_zero = 4
+        keycard_dlc_01 = 4
+        keycard_dlc_02 = 4
+        keycard_dlc_03 = 4
+        keycard_dlc_04 = 4
+        keycard_red_01 = 2
+        kills_with_dummy_knife = 0
+        kills_with_fire_axe = 0
+        kills_with_pistol = 0
+        kills_with_rifle = 0
+        kills_with_unarmed = 0
+        lab_rat = 0
+        lost_story_board_photo = 0
+        lost_story_coins = 0
+        lost_story_crown_bobble = 0
+        lost_story_diploma = 0
+        lost_story_dogtag = 0
+        lost_story_escape_plan = 0
+        lost_story_id_card = 0
+        lost_story_newtoncradle = 0
+        lost_story_passport = 0
+        lost_story_secret_camera = 0
+        lost_story_teddy = 0
+        lost_story_watch = 0
+        military_flashlight = 0
+        mission01_completed = 0
+        mission02_completed = 0
+        mission03_completed = 0
+        mission04_completed = 0
+        mission05_completed = 0
+        mission06_completed = 0
+        mission07_completed = 0
+        mission08_completed = 0
+        mission09_completed = 0
+        mission10_completed = 0
+        mission11_completed = 0
+        new_game_plus_completed = 0
+        normal_game_completed = 0
+        note_l_airfield_01 = 0
+        note_l_airfield_02 = 0
+        note_l_beach_01 = 0
+        note_l_beach_02 = 0
+        note_l_helipad_01 = 0
+        note_l_helipad_02 = 0
+        note_l_helipad_03 = 0
+        note_l_jungle02_01 = 0
+        note_l_jungle02_02 = 0
+        note_l_jungle_01 = 0
+        note_l_jungle_02 = 0
+        note_l_jungle_03 = 0
+        note_l_jungle_04 = 0
+        note_l_labs_01 = 0
+        note_l_labs_02 = 0
+        note_l_labs_03 = 0
+        note_l_labs_04 = 0
+        note_l_marina_01 = 0
+        note_l_marina_02 = 0
+        note_l_marina_03 = 0
+        note_l_marina_04 = 0
+        note_l_marina_05 = 0
+        note_l_marina_06 = 0
+        note_l_marina_07 = 0
+        note_l_villa_01 = 0
+        note_l_villa_02 = 0
+        note_l_villa_03 = 0
+        note_l_villa_outside_01 = 0
+        num_ammo_packs = 9
+        num_audio_logs = 0
+        num_charon_logs = 0
+        num_experiment_logs = 0
+        num_lost_stories = 0
+        num_notes = 0
+        num_postcards = 0
+        num_snapshots = 0
+        pickup_axe_01 = 0
+        pickup_axe_02 = 0
+        pickup_axe_03 = 0
+        pickup_axe_04 = 0
+        pickup_dlc_pistol = 0
+        pickup_dlc_rifle = 0
+        pickup_pistol_01 = 0
+        pickup_pistol_02 = 0
+        pickup_shotgun_01 = 0
+        pickup_shotgun_02 = 0
+        pickup_stealth_weapon_01 = 0
+        pickup_stealth_weapon_02 = 0
+        pocket_camera = 0
+        postcard_l_airfield_01 = 0
+        postcard_l_beach_01 = 0
+        postcard_l_helipad_01 = 0
+        postcard_l_jungle02_01 = 0
+        postcard_l_jungle02_02 = 0
+        postcard_l_jungle_01 = 0
+        postcard_l_jungle_02 = 0
+        postcard_l_junglecliff_01 = 0
+        postcard_l_labs_01 = 0
+        postcard_l_labs_02 = 0
+        postcard_l_marina_01 = 0
+        postcard_l_marina_02 = 0
+        praise_the_light = 0
+        prologue_completed = 0
+        radio_item = 0
+        screwdriver_01 = 0
+        shotgun = 0
+        shotgun_tier2 = 0
+        siren_killed_while_screaming = 0
+        snapshot_collectible_01 = 0
+        snapshot_collectible_02 = 0
+        snapshot_collectible_03 = 0
+        snapshot_collectible_04 = 0
+        snapshot_collectible_05 = 0
+        snapshot_collectible_06 = 0
+        snapshot_collectible_07 = 0
+        snapshot_collectible_08 = 0
+        snapshot_collectible_09 = 0
+        snapshot_collectible_10 = 0
+        snapshot_collectible_11 = 0
+        snapshot_collectible_12 = 0
+        snapshot_collectible_14 = 0
+        snapshot_collectible_15 = 0
+        snapshot_collectible_17 = 0
+        snapshot_collectible_18 = 0
+        snapshot_collectible_20 = 0
+        snapshot_collectible_24 = 0
+        snapshot_collectible_25 = 0
+        snapshot_collectible_26 = 0
+        snapshot_collectible_27 = 0
+        snapshot_collectible_28 = 0
+        snapshot_collectible_29 = 0
+        snapshot_collectible_30 = 0
+        snapshot_collectible_31 = 0
+        snapshot_collectible_33 = 0
+        snapshot_collectible_34 = 0
+        snapshot_collectible_35 = 0
+        snapshot_collectible_36 = 0
+        snapshot_collectible_37 = 0
+        snapshot_collectible_38 = 0
+        snapshot_collectible_39 = 0
+        snapshot_collectible_41 = 0
+        snapshot_collectible_42 = 0
+        snapshot_collectible_43 = 0
+        snapshot_collectible_44 = 0
+        snapshot_collectible_45 = 0
+        snapshot_collectible_47 = 0
+        snapshot_collectible_49 = 0
+        snapshot_collectible_50 = 0
+        snapshot_collectible_51 = 0
+        snapshot_collectible_52 = 0
+        snapshot_collectible_53 = 0
+        snapshot_collectible_54 = 0
+        snapshot_collectible_56 = 0
+        snapshot_collectible_57 = 0
+        snapshot_collectible_58 = 0
+        snapshot_collectible_59 = 0
+        snapshot_collectible_61 = 0
+        snapshot_collectible_62 = 0
+        snapshot_collectible_63 = 0
+        snapshot_collectible_64 = 0
+        snapshot_collectible_65 = 0
+        snapshot_collectible_66 = 0
+        snapshot_collectible_67 = 0
+        snapshot_collectible_69 = 0
+        snapshot_collectible_70 = 0
+        snapshot_collectible_71 = 0
+        snapshot_collectible_72 = 0
+        snapshot_collectible_73 = 0
+        snapshot_collectible_74 = 0
+        snapshot_collectible_75 = 0
+        snapshot_collectible_76 = 0
+        snapshot_collectible_77 = 0
+        snapshot_collectible_78 = 0
+        snapshot_collectible_79 = 0
+        snapshot_collectible_80 = 0
+        snapshot_collectible_81 = 0
+        snapshot_collectible_82 = 0
+        snapshot_collectible_83 = 0
+        snapshot_collectible_84 = 0
+        snapshot_collectible_85 = 0
+        snapshot_collectible_86 = 0
+        snapshot_collectible_87 = 0
+        snapshot_collectible_88 = 0
+        snapshot_collectible_89 = 0
+        snapshot_collectible_90 = 0
+        snapshot_collectible_91 = 0
+        snapshot_collectible_92 = 0
+        snapshot_collectible_93 = 0
+        snapshot_collectible_94 = 0
+        snapshot_collectible_95 = 0
+        snapshot_collectible_96 = 0
+        snapshot_collectible_97 = 0
+        snapshot_collectible_98 = 0
+        snapshot_collectible_99 = 0
+        sorted_audio_logs = 0
+        spitter_killed_by_ranged = 0
+        unarmed = 4
+        zombies_killed = 19
+        zombies_killed_by_execute = 0
+        zombies_killed_by_melee = 11
+        zombies_killed_by_pistol_headshot = 0
+        zombies_killed_by_shotgun_close = 0
+        zombies_killed_by_stealth_execute = 8
+        zombies_killed_dlc_pistol_range = 0
+        zombies_killed_dlc_rifle = 0
+    collected_gear
+      ai_keycard_red_01 = 1
+      army_knife = 1
+      glock_tier2 = 1
+      katana_agent_zero = 1
+      keycard_dlc_01 = 1
+      keycard_dlc_02 = 1
+      keycard_dlc_03 = 1
+      keycard_dlc_04 = 1
+      keycard_red_01 = 1
+      unarmed = 1
+      zombie_runner = 1
+      zombie_runner_insanity = 1
+    dlcs
+      displayed
+        dlc1 = 1
+      session
+        booted
+          dlc1 = 1
+        required_to_use_save_data
+          dlc1 = 1
+    level_save_data
+      active_objective = objective_m01_o01
+      active_waypoint_level = l_prologue
+      current_level = l_prologue
+      current_main_level = l_prologue
+      last_comic_panel = comicpanel_00
+      spawn_point = spawn_mission_01_comic_panel_played
+      visited_levels = 0
+    profiles
+      1
+        armour = armour_light_peasant_rags
+        armour_attachments
+          patterns = 1
+        display_name = Footman
+        gear
+          1
+            attachments
+              fighting_style
+                1 = english_style
+            name = unarmed
+        head = knight
+        helmet
+          attachments
+            pattern = pattern_base
+          name = helmet_cloth_hood
+          show_crest = 0
+        hit_zones
+          head
+            actors
+              1 = c_head
+            damage_multiplier = 1
+            damage_stat = damage_head
+            forward = 0.000000, -1.000000, 0.000000
+            hit_effect_offset
+              forward = 0.14999999999999999
+              up = 0.10000000000000001
+            hit_priority = 1
+            hit_stat = hits_head
+          stomach
+            actors
+              1 = c_hips
+              2 = c_spine
+              3 = c_spine1
+            damage_multiplier = 1
+            damage_stat = damage_stomach
+            forward = 0.000000, -1.000000, 0.000000
+            hit_effect_offset
+              forward = 0.14999999999999999
+              up = 0.10000000000000001
+            hit_priority = 3
+            hit_stat = hits_stomach
+          torso
+            actors
+              1 = c_spine2
+            damage_multiplier = 1
+            damage_stat = damage_torso
+            forward = 0.000000, -1.000000, 0.000000
+            hit_effect_offset
+              forward = 0.20000000000000001
+              up = 0.10000000000000001
+            hit_priority = 2
+            hit_stat = hits_torso
+        perks = 0
+        unlock_key = footman
+        wielded_gear
+          1
+            name = unarmed
+      2
+        armour = armour_light_peasant_rags
+        armour_attachments
+          patterns = 1
+        display_name = Crossbowman
+        gear
+          1
+            attachments
+              fighting_style
+                1 = english_style
+            name = unarmed
+        head = knight
+        helmet
+          attachments
+            coif = armorycap
+            pattern = pattern_standard
+            visor = visor_standard
+          name = helmet_sallet
+          show_crest = 0
+        hit_zones
+          head
+            actors
+              1 = c_head
+            damage_multiplier = 1
+            damage_stat = damage_head
+            forward = 0.000000, -1.000000, 0.000000
+            hit_effect_offset
+              forward = 0.14999999999999999
+              up = 0.10000000000000001
+            hit_priority = 1
+            hit_stat = hits_head
+          stomach
+            actors
+              1 = c_hips
+              2 = c_spine
+              3 = c_spine1
+            damage_multiplier = 1
+            damage_stat = damage_stomach
+            forward = 0.000000, -1.000000, 0.000000
+            hit_effect_offset
+              forward = 0.14999999999999999
+              up = 0.10000000000000001
+            hit_priority = 3
+            hit_stat = hits_stomach
+          torso
+            actors
+              1 = c_spine2
+            damage_multiplier = 1
+            damage_stat = damage_torso
+            forward = 0.000000, -1.000000, 0.000000
+            hit_effect_offset
+              forward = 0.20000000000000001
+              up = 0.10000000000000001
+            hit_priority = 2
+            hit_stat = hits_torso
+        perks = 0
+        unlock_key = crossbowman
+        wielded_gear
+          1
+            name = unarmed
+    progress_save_data
+      continue_available = 1
+      item_progress_states
+        l_prologue
+          dynamic_items
+            1
+              gear_name = keycard_red_01
+          dynamic_units = 0
+          items
+            3048353
+              state = 1
+            7410347
+              interaction_enabled = 0
+              start_locked = 1
+            12378624
+              enabled = 1
+              flicker_enabled = 0
+            19880626
+              enabled = 1
+              flicker_enabled = 0
+            40931622
+              start_open = 0
+            55227090
+              broken = 1
+              interaction_enabled = 0
+            57121905
+              enabled = 1
+              flicker_enabled = 0
+            59949011
+              interaction_enabled = 0
+            82404880
+              interaction_enabled = 0
+              start_opened = 0
+            87397511
+              start_open = 0
+            95818327
+              broken = 0
+              interaction_enabled = 1
+              start_opened = 0
+            101949407
+              start_open = 0
+            108554121
+              broken = 0
+            121899898
+              played = 1
+            128590629
+              enabled = 1
+              flicker_enabled = 0
+            135999824
+              broken = 0
+            144387760
+              broken = 0
+              interaction_enabled = 0
+              start_opened = 0
+            145233675
+              broken = 0
+            168318668
+              enabled = 1
+              flicker_enabled = 0
+            172490333
+              broken = 0
+            172974913
+              interaction_enabled = 0
+              start_opened = 0
+            175493936
+              enabled = 1
+              flicker_enabled = 0
+            192164111
+              enabled = 1
+              flicker_enabled = 0
+            197920193
+              state = 1
+            199419787
+              broken = 0
+            213101759
+              broken = 0
+              interaction_enabled = 0
+              start_opened = 1
+            234248559
+              broken = 0
+            243523390
+              broken = 0
+            246747294
+              enabled = 1
+              flicker_enabled = 1
+            248607333
+              broken = 0
+            263036142
+              interaction_enabled = 1
+            264701449
+              broken = 1
+            266683003
+              broken = 0
+            280327641
+              broken = 0
+            291740919
+              enabled = 0
+              flicker_enabled = 0
+            297622681
+              broken = 0
+              interaction_enabled = 0
+              start_opened = 1
+            304872461
+              enabled = 1
+              flicker_enabled = 0
+            315617354
+              enabled = 1
+              flicker_enabled = 0
+            321061449
+              broken = 1
+            323678601
+              broken = 0
+              interaction_enabled = 0
+              start_opened = 0
+            327557164
+              enabled = 1
+              flicker_enabled = 0
+            337985862
+              played = 1
+            361153739
+              broken = 0
+            370093886
+              start_open = 0
+            377494852
+              enabled = 0
+              flicker_enabled = 0
+            380653527
+              broken = 0
+            384884320
+              enabled = 1
+              flicker_enabled = 0
+            393954821
+              enabled = 1
+              flicker_enabled = 0
+            397571264
+              broken = 1
+            406007053
+              enabled = 1
+              flicker_enabled = 0
+            407093797
+              start_active = 1
+            413617480
+              interaction_enabled = 0
+              start_locked = 0
+            421219846
+              state = 1
+            442999420
+              broken = 0
+            445186832
+              broken = 0
+            447904576
+              enabled = 1
+              flicker_enabled = 0
+            449875923
+              enabled = 0
+              flicker_enabled = 0
+            451885652
+              broken = 0
+            458694022
+              enabled = 1
+              flicker_enabled = 0
+            461593415
+              broken = 0
+            471341243
+              enabled = 1
+              flicker_enabled = 0
+            481052747
+              interaction_enabled = 1
+              start_opened = 0
+            510758645
+              broken = 1
+            512522920
+              enabled = 1
+              flicker_enabled = 0
+            518931773
+              broken = 0
+            522882519
+              interaction_enabled = 0
+              start_on = 0
+            539623579
+              enabled = 1
+              flicker_enabled = 0
+            543341626
+              state = 1
+            558260938
+              broken = 0
+              interaction_enabled = 0
+              start_opened = 0
+            564221049
+              broken = 0
+            571203991
+              interaction_enabled = 0
+            594389657
+              starting_state = 0
+            594753569
+              broken = 0
+            596463495
+              broken = 0
+            609071306
+              enabled = 1
+              flicker_enabled = 0
+            614705488
+              broken = 0
+            617066678
+              broken = 0
+            619671156
+              broken = 0
+            621290910
+              broken = 0
+            627655519
+              broken = 0
+            629110923
+              broken = 0
+            640636425
+              broken = 0
+            644147142
+              broken = 0
+            664265422
+              start_active = 1
+            670522684
+              enabled = 1
+              flicker_enabled = 0
+            674192678
+              broken = 0
+              interaction_enabled = 1
+              start_opened = 0
+            683195774
+              enabled = 0
+              flicker_enabled = 0
+            685643969
+              broken = 0
+            701140207
+              broken = 1
+            704165691
+              start_open = 0
+            706380161
+              played = 0
+            708458213
+              broken = 1
+            712091798
+              broken = 0
+            716837174
+              enabled = 1
+              flicker_enabled = 0
+            717179790
+              state = 1
+            723824417
+              broken = 0
+            734004658
+              start_active = 1
+            750300940
+              broken = 0
+            751319142
+              enabled = 0
+              flicker_enabled = 0
+            753949801
+              broken = 1
+              enabled = 1
+            777005184
+              broken = 0
+            785986561
+              broken = 1
+            790985071
+              broken = 1
+            805992719
+              broken = 0
+            813082851
+              broken = 0
+            820690306
+              enabled = 1
+              flicker_enabled = 0
+            822366289
+              interaction_enabled = 1
+              start_locked = 1
+            824395232
+              state = 1
+            827137620
+              state = 1
+            833562487
+              broken = 0
+            844099417
+              enabled = 1
+              flicker_enabled = 0
+            852232160
+              broken = 0
+              interaction_enabled = 0
+              start_opened = 1
+            864465338
+              enabled = 0
+              flicker_enabled = 0
+            883341572
+              state = 1
+            885254216
+              broken = 0
+            893692869
+              enabled = 0
+              flicker_enabled = 0
+            896549106
+              broken = 0
+            908308252
+              broken = 1
+            908768031
+              enabled = 1
+              flicker_enabled = 0
+            910562440
+              played = 1
+            918086570
+              interaction_enabled = 0
+            926801520
+              enabled = 1
+              flicker_enabled = 0
+            934312509
+              enabled = 0
+              flicker_enabled = 0
+            941038716
+              enabled = 1
+              flicker_enabled = 0
+            941488508
+              broken = 0
+            941666157
+              broken = 0
+            941958585
+              broken = 0
+            947446211
+              enabled = 1
+              flicker_enabled = 0
+            948386375
+              broken = 0
+            950150780
+              broken = 0
+              enabled = 1
+            950826949
+              enabled = 1
+              flicker_enabled = 0
+            955357327
+              state = 1
+            955593290
+              broken = 0
+            958982302
+              broken = 0
+            971225419
+              start_open = 0
+            1006822288
+              enabled = 1
+              flicker_enabled = 0
+            1016304164
+              enabled = 1
+              flicker_enabled = 0
+            1045924141
+              enabled = 0
+              flicker_enabled = 0
+            1050688210
+              enabled = 1
+              flicker_enabled = 0
+            1064258139
+              broken = 0
+            1068053125
+              enabled = 1
+              flicker_enabled = 0
+            1096972181
+              enabled = 1
+              flicker_enabled = 0
+            1108521744
+              enabled = 1
+              flicker_enabled = 0
+            1110145245
+              broken = 0
+              interaction_enabled = 0
+              start_opened = 0
+            1121812860
+              state = 1
+            1126165756
+              enabled = 1
+              flicker_enabled = 0
+            1128682540
+              is_on = 0
+            1135424790
+              enabled = 0
+              flicker_enabled = 0
+            1141756716
+              played = 1
+            1152338509
+              enabled = 1
+              flicker_enabled = 0
+            1152621075
+              interaction_enabled = 1
+            1153236336
+              state = 1
+            1159446902
+              broken = 1
+            1162007801
+              broken = 0
+              interaction_enabled = 0
+              start_opened = 1
+            1164026557
+              enabled = 1
+              flicker_enabled = 0
+            1165159014
+              enabled = 0
+              flicker_enabled = 0
+            1169076611
+              enabled = 1
+              flicker_enabled = 0
+            1170467489
+              enabled = 1
+              flicker_enabled = 0
+            1171700070
+              broken = 0
+              interaction_enabled = 0
+              start_opened = 0
+            1188343215
+              start_open = 0
+            1194536300
+              broken = 0
+            1198818002
+              state = 1
+            1227096808
+              broken = 0
+            1228405248
+              broken = 0
+            1236308978
+              broken = 0
+            1239570766
+              broken = 0
+            1239691815
+              enabled = 1
+              flicker_enabled = 0
+            1242335488
+              calling = 0
+              screen_on = 0
+            1256896485
+              start_open = 0
+            1273563895
+              enabled = 0
+              flicker_enabled = 0
+            1280127323
+              broken = 0
+            1281784620
+              interaction_enabled = 1
+            1289742264
+              broken = 0
+            1304313031
+              state = 1
+            1338199287
+              enabled = 1
+              flicker_enabled = 0
+            1339566887
+              interaction_enabled = 0
+            1348253231
+              broken = 0
+            1352921641
+              broken = 0
+            1361513409
+              start_active = 1
+            1369500496
+              broken = 0
+            1369769816
+              broken = 0
+            1371512261
+              interaction_enabled = 1
+            1396726470
+              enabled = 1
+              flicker_enabled = 0
+            1402151814
+              enabled = 1
+              flicker_enabled = 0
+            1410676135
+              start_open = 0
+            1410777335
+              broken = 0
+              interaction_enabled = 0
+              start_opened = 1
+            1415934353
+              broken = 0
+            1419602766
+              broken = 0
+            1428308327
+              state = 1
+            1430226709
+              enabled = 0
+              flicker_enabled = 0
+            1439436012
+              start_open = 0
+            1452146883
+              broken = 0
+            1471344380
+              broken = 0
+            1485644291
+              start_active = 1
+            1489949878
+              enabled = 1
+              flicker_enabled = 0
+            1527898495
+              broken = 0
+            1529597001
+              broken = 1
+            1533726908
+              calling = 0
+              screen_on = 0
+            1535742061
+              state = 1
+            1547661595
+              broken = 0
+            1547838462
+              enabled = 1
+              flicker_enabled = 1
+            1556189027
+              broken = 0
+            1556839452
+              interaction_enabled = 1
+            1557609177
+              state = 1
+            1574872895
+              broken = 1
+              interaction_enabled = 0
+            1592908999
+              enabled = 0
+              flicker_enabled = 0
+            1596128392
+              interaction_enabled = 1
+            1596574774
+              start_open = 0
+            1604027705
+              state = 1
+            1614950621
+              enabled = 1
+              flicker_enabled = 0
+            1624150767
+              enabled = 1
+              flicker_enabled = 0
+            1626479655
+              broken = 0
+            1645593835
+              broken = 0
+            1654439197
+              enabled = 1
+              flicker_enabled = 0
+            1672425476
+              broken = 0
+            1693032429
+              broken = 0
+            1701875084
+              broken = 0
+            1705861717
+              state = 1
+            1715998411
+              calling = 0
+              screen_on = 0
+            1735994104
+              broken = 0
+            1768193782
+              enabled = 1
+              flicker_enabled = 0
+            1776687159
+              broken = 0
+            1796938530
+              broken = 0
+            1813843564
+              enabled = 0
+              flicker_enabled = 0
+            1819936572
+              start_open = 0
+            1845768803
+              enabled = 1
+              flicker_enabled = 0
+            1854776045
+              broken = 0
+            1862807224
+              broken = 0
+            1864943709
+              broken = 0
+            1890834126
+              start_open = 0
+            1897387171
+              enabled = 1
+              flicker_enabled = 0
+            1904745601
+              broken = 0
+            1910926074
+              interaction_enabled = 1
+              start_opened = 0
+            1914002384
+              broken = 0
+            1917198761
+              interaction_enabled = 1
+            1917639638
+              broken = 0
+            1917876022
+              broken = 1
+            1918834151
+              broken = 0
+            1919564842
+              broken = 1
+            1926698433
+              enabled = 0
+              flicker_enabled = 0
+            1926955442
+              broken = 0
+            1930351754
+              broken = 1
+              enabled = 1
+            1933739614
+              start_open = 0
+            1937845708
+              enabled = 1
+              flicker_enabled = 0
+            1937922058
+              enabled = 1
+              flicker_enabled = 0
+            1938721651
+              broken = 0
+            1945872259
+              state = 1
+            1946640581
+              broken = 0
+              interaction_enabled = 0
+              start_opened = 0
+            1951755917
+              broken = 0
+            1960466283
+              enabled = 0
+              flicker_enabled = 0
+            1969911163
+              interaction_enabled = 0
+            1982327823
+              interaction_enabled = 1
+              start_on = 0
+            1993521568
+              interaction_enabled = 1
+            2003468998
+              state = 1
+            2009320380
+              enabled = 1
+              flicker_enabled = 0
+            2010157890
+              broken = 0
+            2029884252
+              enabled = 1
+              flicker_enabled = 0
+            2038834898
+              enabled = 1
+              flicker_enabled = 0
+            2048584801
+              broken = 0
+            2057012682
+              played = 1
+            2058931652
+              played = 1
+            2061372193
+              enabled = 1
+              flicker_enabled = 0
+            2073331166
+              broken = 0
+              interaction_enabled = 0
+              start_opened = 1
+            2087362166
+              broken = 0
+            2089386402
+              broken = 0
+            2092132513
+              enabled = 1
+              flicker_enabled = 0
+            2097019791
+              broken = 0
+            2099820650
+              interaction_enabled = 1
+              start_opened = 0
+            2110966626
+              enabled = 1
+              flicker_enabled = 0
+            2119358306
+              broken = 0
+            2123830186
+              broken = 0
+            2124588465
+              broken = 0
+            2140132311
+              broken = 0
+          npc_spawners
+            553818720 = 1339566887
+            1100696378 = 1969911163
+            1841153970 = 918086570
+            1965483451 = 571203991
+          removed_units
+            263036142 = 1
+            1152621075 = 1
+            1355880878 = 1
+            1556839452 = 1
+            1596128392 = 1
+            1993521568 = 1
+          spawners = 0
+          unit_id = 1
+      object_sets
+        l_prologue
+          CorridorPart01 = 1
+          CorridorPart02 = 1
+          GwNavGenExclusive = 1
+          MutantBacktrackBlocker = 0
+          blocked_path_01 = 1
+          level_part_01 = 1
+          level_part_02 = 1
+          room_01 = 0
+          room_02 = 0
+          room_03 = 0
+          room_04 = 0
+          room_05 = 0
+          room_06 = 0
+          room_07 = 0
+          room_08 = 0
+          room_09 = 0
+      progression_states
+        Play_stinger_l_prologue_zombies_cutscene_radio = 1
+        active_mission_key = mission_01
+        blocked_path_01_visibility_once = 1
+        m01_after_comic_panel = 1
+        mis01_agent_zero_enters = 1
+        mission_01_active = 1
+        mission_01_mutant_serum_box_thrown = 1
+        mission_01_second_blockade_visibility_on = 1
+        prologue_stealth_kill_zombie_killed_once = 1
+        prologueglobalonce001 = 1
+        prologueglobalonce002 = 1
+        prologueglobalonce003 = 1
+        prologueglobalonce004 = 1
+        prologueglobalonce005 = 1
+        prologueglobalonce006 = 1
+        prologueglobalonce007 = 1
+        prologueglobalonce008 = 1
+        prologueglobalonce009 = 1
+        prologueglobalonce010 = 1
+        prologueglobalonce011 = 1
+        prologueglobalonce012 = 1
+        prologueglobalonce016 = 1
+        prologueglobalonce020 = 1
+        prologueglobalonce027 = 1
+        prologueglobalonce028 = 1
+        prologueglobalonce029 = 1
+        prologueglobalonce030 = 1
+        prologueglobalonce031 = 1
+        prologueglobalonce033 = 1
+        prologueglobalonce034 = 1
+        prologueglobalonce035 = 1
+        ruckus1 = 1
+        ruckus2 = 1
+        ruckus3 = 1
+        ruckus4 = 1
+        spawn_mission_01_explosive_barrels_once = 1
+        spawn_mission_01_first_corridor_end_once = 1
+        spawn_mission_01_start = 1
+        spawn_mission_01_start_once = 1
+        spawn_unlimited_ammo_pile_prologue_once = 1
+        tutorial_aim_done = 1
+        tutorial_attack2_done = 1
+        tutorial_attack_done = 1
+        tutorial_basic_heavy_attack_done = 1
+        tutorial_basicequip_done = 1
+        tutorial_equip_pistol_done = 1
+        tutorial_look_done = 1
+        tutorial_move_done = 1
+        tutorial_reload_done = 1
+        tutorial_shoot_done = 1
+        tutorial_waypoint_done = 1
+        tutorial_ztarget_done = 1
+    reset_cache = 0
+    silverlink
+      auto_connect = 0
+      events = 0
+      features = 0
+    sp_profiles
+      agent_zero_prologue
+        armour = player_base
+        armour_attachments
+          patterns = 1
+        damage = 0
+        detected_threshold = 0.10000000000000001
+        die_voice_event = agent_zero_die_vce
+        display_name = 1 Man-at-arms
+        gear
+          ammo
+            glock_tier2
+              ammo = 8
+            pistol_ammo
+              spare_ammo = 44
+          1
+            name = unarmed
+          2
+            name = army_knife
+          3
+            name = katana_agent_zero
+          4
+            attachments = 0
+            name = keycard_red_01
+          5
+            attachments = 0
+            name = glock_tier2
+        health = 22
+        hit_zones
+          head
+            actors
+              1 = c_head
+            damage_multiplier = 1
+            damage_stat = damage_head
+            forward = 0.000000, -1.000000, 0.000000
+            hit_effect_offset
+              forward = 0.14999999999999999
+              up = 0.10000000000000001
+            hit_priority = 1
+            hit_stat = hits_head
+          stomach
+            actors
+              1 = c_hips
+              2 = c_spine
+              3 = c_spine1
+            damage_multiplier = 1
+            damage_stat = damage_stomach
+            forward = 0.000000, -1.000000, 0.000000
+            hit_effect_offset
+              forward = 0.14999999999999999
+              up = 0.10000000000000001
+            hit_priority = 3
+            hit_stat = hits_stomach
+          torso
+            actors
+              1 = c_spine2
+            damage_multiplier = 1
+            damage_stat = damage_torso
+            forward = 0.000000, -1.000000, 0.000000
+            hit_effect_offset
+              forward = 0.20000000000000001
+              up = 0.10000000000000001
+            hit_priority = 2
+            hit_stat = hits_torso
+        hurt_sound_event = agent_zero_hurt_vce
+        mood_settings
+          dying_threshold = 0.32000000000000001
+          heartbeat_threshold = 0.77000000000000002
+          wounded_threshold = 0.68000000000000005
+        name = agent_zero_prologue
+        perks
+          offensive_specialization_1 = push
+        skin_category = cliff
+        skin_override = agent_zero
+        speech_category = agent_zero
+        wielded_gear
+          1
+            name = katana_agent_zero
+      cliff
+        armour = player_base
+        armour_attachments
+          patterns = 1
+        damage = 0
+        detected_threshold = 0.10000000000000001
+        die_voice_event = player_die_vce
+        display_name = 1 Man-at-arms
+        gear
+          1
+            name = unarmed
+        health = 2
+        hit_zones
+          head
+            actors
+              1 = c_head
+            damage_multiplier = 1
+            damage_stat = damage_head
+            forward = 0.000000, -1.000000, 0.000000
+            hit_effect_offset
+              forward = 0.14999999999999999
+              up = 0.10000000000000001
+            hit_priority = 1
+            hit_stat = hits_head
+          stomach
+            actors
+              1 = c_hips
+              2 = c_spine
+              3 = c_spine1
+            damage_multiplier = 1
+            damage_stat = damage_stomach
+            forward = 0.000000, -1.000000, 0.000000
+            hit_effect_offset
+              forward = 0.14999999999999999
+              up = 0.10000000000000001
+            hit_priority = 3
+            hit_stat = hits_stomach
+          torso
+            actors
+              1 = c_spine2
+            damage_multiplier = 1
+            damage_stat = damage_torso
+            forward = 0.000000, -1.000000, 0.000000
+            hit_effect_offset
+              forward = 0.20000000000000001
+              up = 0.10000000000000001
+            hit_priority = 2
+            hit_stat = hits_torso
+        hurt_sound_event = player_hurt_grunt
+        mood_settings
+          dying_threshold = 0.32000000000000001
+          heartbeat_threshold = 0.68000000000000005
+          wounded_threshold = 0.68000000000000005
+        name = cliff
+        perks
+          offensive_specialization_1 = push
+        skin_category = cliff
+        skin_subgroup = dirty
+        speech_category = cliff
+        wielded_gear
+          1
+            name = unarmed
+      cliff_clean
+        armour = player_base
+        armour_attachments
+          patterns = 1
+        damage = 0
+        detected_threshold = 0.10000000000000001
+        die_voice_event = player_die_vce
+        display_name = 1 Man-at-arms
+        gear
+          1
+            name = unarmed
+        health = 2
+        hit_zones
+          head
+            actors
+              1 = c_head
+            damage_multiplier = 1
+            damage_stat = damage_head
+            forward = 0.000000, -1.000000, 0.000000
+            hit_effect_offset
+              forward = 0.14999999999999999
+              up = 0.10000000000000001
+            hit_priority = 1
+            hit_stat = hits_head
+          stomach
+            actors
+              1 = c_hips
+              2 = c_spine
+              3 = c_spine1
+            damage_multiplier = 1
+            damage_stat = damage_stomach
+            forward = 0.000000, -1.000000, 0.000000
+            hit_effect_offset
+              forward = 0.14999999999999999
+              up = 0.10000000000000001
+            hit_priority = 3
+            hit_stat = hits_stomach
+          torso
+            actors
+              1 = c_spine2
+            damage_multiplier = 1
+            damage_stat = damage_torso
+            forward = 0.000000, -1.000000, 0.000000
+            hit_effect_offset
+              forward = 0.20000000000000001
+              up = 0.10000000000000001
+            hit_priority = 2
+            hit_stat = hits_torso
+        hurt_sound_event = player_hurt_grunt
+        mood_settings
+          dying_threshold = 0.32000000000000001
+          heartbeat_threshold = 0.68000000000000005
+          wounded_threshold = 0.68000000000000005
+        name = cliff_clean
+        perks
+          offensive_specialization_1 = push
+        skin_category = cliff
+        skin_subgroup = clean
+        speech_category = cliff
+        wielded_gear
+          1
+            name = unarmed
+    tutorial_save_data = 0
+    user_settings
+      debug
+        single_player_level = tutorial
+      fullscreen = 0
+      fullscreen_output = 0
+      gameplay
+        rumble_effect_activated = 1
+        subtitles_activated = 1
+      screen_resolution
+        1 = 1280
+        2 = 720
+      skins
+        axe = 0
+        cliff = 0
+        katana = 0
+        knife = 0
+        pistol = 0
+        shotgun = 0
+      sound
+        music_volume = 0
+        sfx_volume = 0
+        voice_over = 0
+      video
+        advanced
+          light_casts_shadows = 1
+          max_fps = 0
+          max_stacking_frames = -1
+          particles_quality = high
+          shadow_quality = high
+          texture_quality_characters = high
+          texture_quality_coat_of_arms = low
+          texture_quality_environment = high
+          vsync = 0
+        normal
+          gamma = 2.2000000000000002
+          graphics_quality = high
+        render_settings
+          blurpass_enabled = 1
+          fxaa_enabled = 1
+          lod_decoration_density = 0.10000000000000001
+          lod_object_multiplier = 0.59999999999999998
+          lod_scatter_density = 0
+          sobel_filter_cel_shading = 1
+          ssao_enabled = 1
+    version = 30
+  collected_gear
+    ai_keycard_red_01 = 1
+    army_knife = 1
+    glock_tier2 = 1
+    katana_agent_zero = 1
+    keycard_dlc_01 = 1
+    keycard_dlc_02 = 1
+    keycard_dlc_03 = 1
+    keycard_dlc_04 = 1
+    keycard_red_01 = 1
+    unarmed = 1
+    zombie_runner = 1
+    zombie_runner_insanity = 1
+  dlcs
+    displayed
+      dlc1 = 1
+    session
+      booted
+        dlc1 = 1
+      required_to_use_save_data
+        dlc1 = 1
+  level_save_data
+    active_objective = objective_m01_o07
+    active_waypoint = wp_m01_o22
+    active_waypoint_level = l_prologue
+    current_level = l_prologue
+    current_main_level = l_prologue
+    last_comic_panel = comicpanel_00
+    spawn_point = spawn_mission_01_radio_room
+    visited_levels = 0
+  profiles
+    1
+      armour = armour_light_peasant_rags
+      armour_attachments
+        patterns = 1
+      display_name = Footman
+      gear
+        1
+          attachments
+            fighting_style
+              1 = english_style
+          name = unarmed
+      head = knight
+      helmet
+        attachments
+          pattern = pattern_base
+        name = helmet_cloth_hood
+        show_crest = 0
+      hit_zones
+        head
+          actors
+            1 = c_head
+          damage_multiplier = 1
+          damage_stat = damage_head
+          forward = 0.000000, -1.000000, 0.000000
+          hit_effect_offset
+            forward = 0.14999999999999999
+            up = 0.10000000000000001
+          hit_priority = 1
+          hit_stat = hits_head
+        stomach
+          actors
+            1 = c_hips
+            2 = c_spine
+            3 = c_spine1
+          damage_multiplier = 1
+          damage_stat = damage_stomach
+          forward = 0.000000, -1.000000, 0.000000
+          hit_effect_offset
+            forward = 0.14999999999999999
+            up = 0.10000000000000001
+          hit_priority = 3
+          hit_stat = hits_stomach
+        torso
+          actors
+            1 = c_spine2
+          damage_multiplier = 1
+          damage_stat = damage_torso
+          forward = 0.000000, -1.000000, 0.000000
+          hit_effect_offset
+            forward = 0.20000000000000001
+            up = 0.10000000000000001
+          hit_priority = 2
+          hit_stat = hits_torso
+      perks = 0
+      unlock_key = footman
+      wielded_gear
+        1
+          name = unarmed
+    2
+      armour = armour_light_peasant_rags
+      armour_attachments
+        patterns = 1
+      display_name = Crossbowman
+      gear
+        1
+          attachments
+            fighting_style
+              1 = english_style
+          name = unarmed
+      head = knight
+      helmet
+        attachments
+          coif = armorycap
+          pattern = pattern_standard
+          visor = visor_standard
+        name = helmet_sallet
+        show_crest = 0
+      hit_zones
+        head
+          actors
+            1 = c_head
+          damage_multiplier = 1
+          damage_stat = damage_head
+          forward = 0.000000, -1.000000, 0.000000
+          hit_effect_offset
+            forward = 0.14999999999999999
+            up = 0.10000000000000001
+          hit_priority = 1
+          hit_stat = hits_head
+        stomach
+          actors
+            1 = c_hips
+            2 = c_spine
+            3 = c_spine1
+          damage_multiplier = 1
+          damage_stat = damage_stomach
+          forward = 0.000000, -1.000000, 0.000000
+          hit_effect_offset
+            forward = 0.14999999999999999
+            up = 0.10000000000000001
+          hit_priority = 3
+          hit_stat = hits_stomach
+        torso
+          actors
+            1 = c_spine2
+          damage_multiplier = 1
+          damage_stat = damage_torso
+          forward = 0.000000, -1.000000, 0.000000
+          hit_effect_offset
+            forward = 0.20000000000000001
+            up = 0.10000000000000001
+          hit_priority = 2
+          hit_stat = hits_torso
+      perks = 0
+      unlock_key = crossbowman
+      wielded_gear
+        1
+          name = unarmed
+  progress_save_data
+    continue_available = 1
+    item_progress_states
+      l_prologue
+        dynamic_items
+          1
+            gear_name = keycard_red_01
+        dynamic_units = 0
+        items
+          3048353
+            state = 1
+          5840220
+            state = 1
+          7410347
+            interaction_enabled = 0
+            start_locked = 1
+          12378624
+            enabled = 1
+            flicker_enabled = 0
+          19880626
+            enabled = 1
+            flicker_enabled = 0
+          39038746
+            played = 1
+          40931622
+            start_open = 0
+          41380011
+            played = 1
+          55227090
+            broken = 1
+            interaction_enabled = 0
+          57121905
+            enabled = 1
+            flicker_enabled = 0
+          59949011
+            interaction_enabled = 0
+          82404880
+            interaction_enabled = 0
+            start_opened = 0
+          87397511
+            start_open = 0
+          95818327
+            broken = 0
+            interaction_enabled = 0
+            start_opened = 1
+          101949407
+            start_open = 0
+          108554121
+            broken = 0
+          112356230
+            state = 1
+          121899898
+            played = 1
+          128590629
+            enabled = 1
+            flicker_enabled = 0
+          135999824
+            broken = 0
+          144387760
+            broken = 0
+            interaction_enabled = 0
+            start_opened = 1
+          145233675
+            broken = 0
+          168318668
+            enabled = 1
+            flicker_enabled = 0
+          172490333
+            broken = 0
+          172974913
+            interaction_enabled = 0
+            start_opened = 0
+          175493936
+            enabled = 1
+            flicker_enabled = 0
+          192164111
+            enabled = 1
+            flicker_enabled = 0
+          197920193
+            state = 1
+          199419787
+            broken = 0
+          213101759
+            broken = 0
+            interaction_enabled = 0
+            start_opened = 1
+          234248559
+            broken = 0
+          243523390
+            broken = 0
+          246747294
+            enabled = 1
+            flicker_enabled = 1
+          248607333
+            broken = 0
+          263036142
+            interaction_enabled = 1
+          264701449
+            broken = 1
+          266683003
+            broken = 0
+          280327641
+            broken = 0
+          291740919
+            enabled = 0
+            flicker_enabled = 0
+          297622681
+            broken = 0
+            interaction_enabled = 0
+            start_opened = 1
+          304872461
+            enabled = 1
+            flicker_enabled = 0
+          315617354
+            enabled = 1
+            flicker_enabled = 0
+          321061449
+            broken = 1
+          323678601
+            broken = 0
+            interaction_enabled = 0
+            start_opened = 0
+          327557164
+            enabled = 1
+            flicker_enabled = 0
+          331813172
+            played = 1
+          335568223
+            played = 1
+          337985862
+            played = 1
+          361153739
+            broken = 0
+          366020200
+            state = 1
+          370093886
+            start_open = 0
+          377494852
+            enabled = 0
+            flicker_enabled = 0
+          380653527
+            broken = 0
+          384884320
+            enabled = 1
+            flicker_enabled = 0
+          393954821
+            enabled = 1
+            flicker_enabled = 0
+          397571264
+            broken = 1
+          402177013
+            state = 1
+          406007053
+            enabled = 1
+            flicker_enabled = 0
+          407093797
+            start_active = 1
+          413617480
+            interaction_enabled = 0
+            start_locked = 0
+          419534658
+            played = 1
+          421219846
+            state = 1
+          430604218
+            played = 1
+          442999420
+            broken = 0
+          445186832
+            broken = 0
+          447904576
+            enabled = 1
+            flicker_enabled = 0
+          449875923
+            enabled = 0
+            flicker_enabled = 0
+          451885652
+            broken = 0
+          458694022
+            enabled = 1
+            flicker_enabled = 0
+          461593415
+            broken = 0
+          471341243
+            enabled = 1
+            flicker_enabled = 0
+          481052747
+            interaction_enabled = 0
+            start_opened = 1
+          507731440
+            state = 1
+          510758645
+            broken = 1
+          512522920
+            enabled = 1
+            flicker_enabled = 0
+          518931773
+            broken = 0
+          522260799
+            played = 1
+          522882519
+            interaction_enabled = 0
+            start_on = 0
+          539623579
+            enabled = 1
+            flicker_enabled = 0
+          543341626
+            state = 1
+          558260938
+            broken = 0
+            interaction_enabled = 0
+            start_opened = 0
+          564221049
+            broken = 0
+          571203991
+            interaction_enabled = 0
+          594389657
+            starting_state = 0
+          594753569
+            broken = 0
+          596463495
+            broken = 0
+          609071306
+            enabled = 1
+            flicker_enabled = 0
+          614705488
+            broken = 0
+          617066678
+            broken = 0
+          619671156
+            broken = 0
+          621290910
+            broken = 0
+          627655519
+            broken = 0
+          629110923
+            broken = 0
+          640636425
+            broken = 0
+          644147142
+            broken = 0
+          653607308
+            state = 1
+          664265422
+            start_active = 1
+          670522684
+            enabled = 1
+            flicker_enabled = 0
+          674192678
+            broken = 0
+            interaction_enabled = 1
+            start_opened = 0
+          683195774
+            enabled = 0
+            flicker_enabled = 0
+          685643969
+            broken = 0
+          701140207
+            broken = 1
+          704165691
+            start_open = 0
+          706380161
+            played = 0
+          708458213
+            broken = 1
+          712091798
+            broken = 0
+          716837174
+            enabled = 1
+            flicker_enabled = 0
+          717179790
+            state = 1
+          723824417
+            broken = 0
+          734004658
+            start_active = 1
+          750300940
+            broken = 0
+          751319142
+            enabled = 0
+            flicker_enabled = 0
+          753949801
+            broken = 1
+            enabled = 1
+          777005184
+            broken = 0
+          785986561
+            broken = 1
+          790985071
+            broken = 1
+          805992719
+            broken = 0
+          813082851
+            broken = 0
+          818589071
+            state = 1
+          820690306
+            enabled = 1
+            flicker_enabled = 0
+          822366289
+            interaction_enabled = 1
+            start_locked = 1
+          824395232
+            state = 1
+          827137620
+            state = 1
+          833562487
+            broken = 0
+          844099417
+            enabled = 1
+            flicker_enabled = 0
+          845888926
+            state = 1
+          852232160
+            broken = 0
+            interaction_enabled = 0
+            start_opened = 1
+          862560133
+            state = 1
+          864465338
+            enabled = 0
+            flicker_enabled = 0
+          872086863
+            state = 1
+          883341572
+            state = 1
+          885254216
+            broken = 0
+          893692869
+            enabled = 0
+            flicker_enabled = 0
+          896549106
+            broken = 0
+          908308252
+            broken = 1
+          908768031
+            enabled = 1
+            flicker_enabled = 0
+          910562440
+            played = 1
+          918086570
+            interaction_enabled = 0
+          919566451
+            played = 1
+          926801520
+            enabled = 1
+            flicker_enabled = 0
+          934312509
+            enabled = 0
+            flicker_enabled = 0
+          941038716
+            enabled = 1
+            flicker_enabled = 0
+          941488508
+            broken = 0
+          941666157
+            broken = 0
+          941958585
+            broken = 0
+          943538139
+            played = 1
+          947446211
+            enabled = 1
+            flicker_enabled = 0
+          948386375
+            broken = 0
+          950150780
+            broken = 0
+            enabled = 1
+          950826949
+            enabled = 1
+            flicker_enabled = 0
+          955357327
+            state = 1
+          955593290
+            broken = 0
+          958982302
+            broken = 0
+          971225419
+            start_open = 0
+          1006822288
+            enabled = 1
+            flicker_enabled = 0
+          1016304164
+            enabled = 1
+            flicker_enabled = 0
+          1045924141
+            enabled = 0
+            flicker_enabled = 0
+          1050688210
+            enabled = 1
+            flicker_enabled = 0
+          1064258139
+            broken = 0
+          1068053125
+            enabled = 1
+            flicker_enabled = 0
+          1082733798
+            state = 1
+          1096972181
+            enabled = 1
+            flicker_enabled = 0
+          1108521744
+            enabled = 1
+            flicker_enabled = 0
+          1110145245
+            broken = 0
+            interaction_enabled = 0
+            start_opened = 0
+          1121812860
+            state = 1
+          1126165756
+            enabled = 1
+            flicker_enabled = 0
+          1128682540
+            is_on = 0
+          1135424790
+            enabled = 0
+            flicker_enabled = 0
+          1141756716
+            played = 1
+          1152338509
+            enabled = 1
+            flicker_enabled = 0
+          1152621075
+            interaction_enabled = 1
+          1153236336
+            state = 1
+          1159446902
+            broken = 1
+          1162007801
+            broken = 0
+            interaction_enabled = 0
+            start_opened = 1
+          1164026557
+            enabled = 1
+            flicker_enabled = 0
+          1165159014
+            enabled = 0
+            flicker_enabled = 0
+          1169076611
+            enabled = 1
+            flicker_enabled = 0
+          1170467489
+            enabled = 1
+            flicker_enabled = 0
+          1171700070
+            broken = 0
+            interaction_enabled = 0
+            start_opened = 0
+          1188343215
+            start_open = 0
+          1194536300
+            broken = 0
+          1198818002
+            state = 1
+          1227096808
+            broken = 0
+          1228405248
+            broken = 0
+          1236308978
+            broken = 0
+          1239570766
+            broken = 0
+          1239691815
+            enabled = 1
+            flicker_enabled = 0
+          1242335488
+            calling = 0
+            screen_on = 0
+          1256896485
+            start_open = 0
+          1273563895
+            enabled = 0
+            flicker_enabled = 0
+          1280127323
+            broken = 0
+          1281784620
+            interaction_enabled = 1
+          1289742264
+            broken = 0
+          1304313031
+            state = 1
+          1338199287
+            enabled = 1
+            flicker_enabled = 0
+          1339566887
+            interaction_enabled = 0
+          1348253231
+            broken = 0
+          1352921641
+            broken = 0
+          1361513409
+            start_active = 1
+          1369500496
+            broken = 0
+          1369769816
+            broken = 0
+          1371512261
+            interaction_enabled = 1
+          1396726470
+            enabled = 1
+            flicker_enabled = 0
+          1402151814
+            enabled = 1
+            flicker_enabled = 0
+          1410676135
+            start_open = 0
+          1410777335
+            broken = 0
+            interaction_enabled = 0
+            start_opened = 1
+          1415934353
+            broken = 0
+          1419602766
+            broken = 0
+          1428308327
+            state = 1
+          1430226709
+            enabled = 0
+            flicker_enabled = 0
+          1439436012
+            start_open = 0
+          1452146883
+            broken = 0
+          1471344380
+            broken = 0
+          1485644291
+            start_active = 1
+          1489949878
+            enabled = 1
+            flicker_enabled = 0
+          1527898495
+            broken = 0
+          1529597001
+            broken = 1
+          1533726908
+            calling = 0
+            screen_on = 0
+          1535742061
+            state = 1
+          1547661595
+            broken = 0
+          1547838462
+            enabled = 1
+            flicker_enabled = 1
+          1556189027
+            broken = 0
+          1556839452
+            interaction_enabled = 1
+          1557609177
+            state = 1
+          1574872895
+            broken = 1
+            interaction_enabled = 0
+          1584147684
+            played = 1
+          1592908999
+            enabled = 0
+            flicker_enabled = 0
+          1596128392
+            interaction_enabled = 1
+          1596574774
+            start_open = 0
+          1604027705
+            state = 1
+          1604658959
+            state = 1
+          1614950621
+            enabled = 1
+            flicker_enabled = 0
+          1620866181
+            state = 1
+          1624150767
+            enabled = 1
+            flicker_enabled = 0
+          1626479655
+            broken = 0
+          1645593835
+            broken = 0
+          1647030307
+            state = 1
+          1654439197
+            enabled = 1
+            flicker_enabled = 0
+          1672425476
+            broken = 0
+          1693032429
+            broken = 0
+          1701875084
+            broken = 0
+          1705861717
+            state = 1
+          1715998411
+            calling = 0
+            screen_on = 0
+          1735994104
+            broken = 0
+          1768193782
+            enabled = 1
+            flicker_enabled = 0
+          1776687159
+            broken = 0
+          1796938530
+            broken = 0
+          1813843564
+            enabled = 0
+            flicker_enabled = 0
+          1819936572
+            start_open = 0
+          1845768803
+            enabled = 1
+            flicker_enabled = 0
+          1854776045
+            broken = 0
+          1862807224
+            broken = 0
+          1864943709
+            broken = 0
+          1876260559
+            state = 1
+          1890834126
+            start_open = 0
+          1897387171
+            enabled = 1
+            flicker_enabled = 0
+          1904745601
+            broken = 0
+          1910926074
+            interaction_enabled = 1
+            start_opened = 0
+          1914002384
+            broken = 0
+          1917198761
+            interaction_enabled = 1
+          1917639638
+            broken = 0
+          1917876022
+            broken = 1
+          1918834151
+            broken = 0
+          1919564842
+            broken = 1
+          1926698433
+            enabled = 0
+            flicker_enabled = 0
+          1926955442
+            broken = 0
+          1930351754
+            broken = 1
+            enabled = 1
+          1933739614
+            start_open = 0
+          1934333741
+            state = 1
+          1937845708
+            enabled = 1
+            flicker_enabled = 0
+          1937922058
+            enabled = 1
+            flicker_enabled = 0
+          1938721651
+            broken = 0
+          1945872259
+            state = 1
+          1946640581
+            broken = 0
+            interaction_enabled = 0
+            start_opened = 0
+          1951755917
+            broken = 0
+          1960466283
+            enabled = 0
+            flicker_enabled = 0
+          1969911163
+            interaction_enabled = 0
+          1982327823
+            interaction_enabled = 1
+            start_on = 0
+          1993521568
+            interaction_enabled = 1
+          2003468998
+            state = 1
+          2009320380
+            enabled = 1
+            flicker_enabled = 0
+          2010157890
+            broken = 0
+          2029884252
+            enabled = 1
+            flicker_enabled = 0
+          2038834898
+            enabled = 1
+            flicker_enabled = 0
+          2048584801
+            broken = 0
+          2057012682
+            played = 1
+          2058931652
+            played = 1
+          2061372193
+            enabled = 1
+            flicker_enabled = 0
+          2068462787
+            played = 1
+          2073331166
+            broken = 0
+            interaction_enabled = 0
+            start_opened = 1
+          2087362166
+            broken = 0
+          2089386402
+            broken = 0
+          2092132513
+            enabled = 1
+            flicker_enabled = 0
+          2097019791
+            broken = 0
+          2099820650
+            interaction_enabled = 1
+            start_opened = 0
+          2110966626
+            enabled = 1
+            flicker_enabled = 0
+          2119358306
+            broken = 0
+          2123830186
+            broken = 0
+          2124588465
+            broken = 0
+          2140132311
+            broken = 0
+        npc_spawners
+          553818720 = 1339566887
+          1100696378 = 1969911163
+          1841153970 = 918086570
+          1965483451 = 571203991
+        removed_units
+          263036142 = 1
+          1152621075 = 1
+          1281784620 = 1
+          1355880878 = 1
+          1371512261 = 1
+          1556839452 = 1
+          1596128392 = 1
+          1917198761 = 1
+          1993521568 = 1
+        spawners = 0
+        unit_id = 1
+    object_sets
+      l_prologue
+        CorridorPart01 = 1
+        CorridorPart02 = 1
+        GwNavGenExclusive = 1
+        MutantBacktrackBlocker = 0
+        blocked_path_01 = 1
+        level_part_01 = 1
+        level_part_02 = 1
+        room_01 = 0
+        room_02 = 0
+        room_03 = 0
+        room_04 = 0
+        room_05 = 0
+        room_06 = 0
+        room_07 = 0
+        room_08 = 0
+        room_09 = 0
+    progression_states
+      Play_stinger_l_prologue_zombies_cutscene_radio = 1
+      active_mission_key = mission_01
+      blocked_path_01_visibility_once = 1
+      comic_panel_done_and_room_exit = 1
+      m01_after_comic_panel = 1
+      mis01_agent_zero_enters = 1
+      mis01_target_eliminated = 1
+      mission_01_active = 1
+      mission_01_mutant_serum_box_thrown = 1
+      mission_01_second_blockade_visibility_on = 1
+      prologue_mutant_steps_long = 1
+      prologue_stealth_kill_zombie_killed_once = 1
+      prologueglobalonce001 = 1
+      prologueglobalonce002 = 1
+      prologueglobalonce003 = 1
+      prologueglobalonce004 = 1
+      prologueglobalonce005 = 1
+      prologueglobalonce006 = 1
+      prologueglobalonce007 = 1
+      prologueglobalonce008 = 1
+      prologueglobalonce009 = 1
+      prologueglobalonce010 = 1
+      prologueglobalonce011 = 1
+      prologueglobalonce012 = 1
+      prologueglobalonce016 = 1
+      prologueglobalonce020 = 1
+      prologueglobalonce022 = 1
+      prologueglobalonce023 = 1
+      prologueglobalonce025 = 1
+      prologueglobalonce027 = 1
+      prologueglobalonce028 = 1
+      prologueglobalonce029 = 1
+      prologueglobalonce030 = 1
+      prologueglobalonce031 = 1
+      prologueglobalonce033 = 1
+      prologueglobalonce034 = 1
+      prologueglobalonce035 = 1
+      ruckus1 = 1
+      ruckus2 = 1
+      ruckus3 = 1
+      ruckus4 = 1
+      spawn_mission_01_exiting_branden_room_once = 1
+      spawn_mission_01_explosive_barrels_once = 1
+      spawn_mission_01_first_corridor_end_once = 1
+      spawn_mission_01_start = 1
+      spawn_mission_01_start_once = 1
+      spawn_unlimited_ammo_pile_prologue_once = 1
+      tutorial_aim_done = 1
+      tutorial_attack2_done = 1
+      tutorial_attack_done = 1
+      tutorial_basic_heavy_attack_done = 1
+      tutorial_basicequip_done = 1
+      tutorial_dodge_done = 1
+      tutorial_equip_pistol_done = 1
+      tutorial_kick_done = 1
+      tutorial_look_done = 1
+      tutorial_move_done = 1
+      tutorial_powerattack_done = 1
+      tutorial_push_done = 1
+      tutorial_reload_done = 1
+      tutorial_run2_done = 1
+      tutorial_shoot_done = 1
+      tutorial_waypoint2_done = 1
+      tutorial_waypoint_done = 1
+      tutorial_ztarget_done = 1
+  reset_cache = 0
+  silverlink
+    auto_connect = 0
+    events = 0
+    features = 0
+  sp_profiles
+    agent_zero_prologue
+      armour = player_base
+      armour_attachments
+        patterns = 1
+      damage = 0
+      detected_threshold = 0.10000000000000001
+      die_voice_event = agent_zero_die_vce
+      display_name = 1 Man-at-arms
+      gear
+        ammo
+          glock_tier2
+            ammo = 8
+          pistol_ammo
+            spare_ammo = 59
+        1
+          name = unarmed
+        2
+          name = army_knife
+        3
+          name = katana_agent_zero
+        4
+          attachments = 0
+          name = keycard_red_01
+        5
+          attachments = 0
+          name = glock_tier2
+      health = 22
+      hit_zones
+        head
+          actors
+            1 = c_head
+          damage_multiplier = 1
+          damage_stat = damage_head
+          forward = 0.000000, -1.000000, 0.000000
+          hit_effect_offset
+            forward = 0.14999999999999999
+            up = 0.10000000000000001
+          hit_priority = 1
+          hit_stat = hits_head
+        stomach
+          actors
+            1 = c_hips
+            2 = c_spine
+            3 = c_spine1
+          damage_multiplier = 1
+          damage_stat = damage_stomach
+          forward = 0.000000, -1.000000, 0.000000
+          hit_effect_offset
+            forward = 0.14999999999999999
+            up = 0.10000000000000001
+          hit_priority = 3
+          hit_stat = hits_stomach
+        torso
+          actors
+            1 = c_spine2
+          damage_multiplier = 1
+          damage_stat = damage_torso
+          forward = 0.000000, -1.000000, 0.000000
+          hit_effect_offset
+            forward = 0.20000000000000001
+            up = 0.10000000000000001
+          hit_priority = 2
+          hit_stat = hits_torso
+      hurt_sound_event = agent_zero_hurt_vce
+      mood_settings
+        dying_threshold = 0.32000000000000001
+        heartbeat_threshold = 0.77000000000000002
+        wounded_threshold = 0.68000000000000005
+      name = agent_zero_prologue
+      perks
+        offensive_specialization_1 = push
+      skin_category = cliff
+      skin_override = agent_zero
+      speech_category = agent_zero
+      wielded_gear
+        1
+          name = katana_agent_zero
+    cliff
+      armour = player_base
+      armour_attachments
+        patterns = 1
+      damage = 0
+      detected_threshold = 0.10000000000000001
+      die_voice_event = player_die_vce
+      display_name = 1 Man-at-arms
+      gear
+        1
+          name = unarmed
+      health = 2
+      hit_zones
+        head
+          actors
+            1 = c_head
+          damage_multiplier = 1
+          damage_stat = damage_head
+          forward = 0.000000, -1.000000, 0.000000
+          hit_effect_offset
+            forward = 0.14999999999999999
+            up = 0.10000000000000001
+          hit_priority = 1
+          hit_stat = hits_head
+        stomach
+          actors
+            1 = c_hips
+            2 = c_spine
+            3 = c_spine1
+          damage_multiplier = 1
+          damage_stat = damage_stomach
+          forward = 0.000000, -1.000000, 0.000000
+          hit_effect_offset
+            forward = 0.14999999999999999
+            up = 0.10000000000000001
+          hit_priority = 3
+          hit_stat = hits_stomach
+        torso
+          actors
+            1 = c_spine2
+          damage_multiplier = 1
+          damage_stat = damage_torso
+          forward = 0.000000, -1.000000, 0.000000
+          hit_effect_offset
+            forward = 0.20000000000000001
+            up = 0.10000000000000001
+          hit_priority = 2
+          hit_stat = hits_torso
+      hurt_sound_event = player_hurt_grunt
+      mood_settings
+        dying_threshold = 0.32000000000000001
+        heartbeat_threshold = 0.68000000000000005
+        wounded_threshold = 0.68000000000000005
+      name = cliff
+      perks
+        offensive_specialization_1 = push
+      skin_category = cliff
+      skin_subgroup = dirty
+      speech_category = cliff
+      wielded_gear
+        1
+          name = unarmed
+    cliff_clean
+      armour = player_base
+      armour_attachments
+        patterns = 1
+      damage = 0
+      detected_threshold = 0.10000000000000001
+      die_voice_event = player_die_vce
+      display_name = 1 Man-at-arms
+      gear
+        1
+          name = unarmed
+      health = 2
+      hit_zones
+        head
+          actors
+            1 = c_head
+          damage_multiplier = 1
+          damage_stat = damage_head
+          forward = 0.000000, -1.000000, 0.000000
+          hit_effect_offset
+            forward = 0.14999999999999999
+            up = 0.10000000000000001
+          hit_priority = 1
+          hit_stat = hits_head
+        stomach
+          actors
+            1 = c_hips
+            2 = c_spine
+            3 = c_spine1
+          damage_multiplier = 1
+          damage_stat = damage_stomach
+          forward = 0.000000, -1.000000, 0.000000
+          hit_effect_offset
+            forward = 0.14999999999999999
+            up = 0.10000000000000001
+          hit_priority = 3
+          hit_stat = hits_stomach
+        torso
+          actors
+            1 = c_spine2
+          damage_multiplier = 1
+          damage_stat = damage_torso
+          forward = 0.000000, -1.000000, 0.000000
+          hit_effect_offset
+            forward = 0.20000000000000001
+            up = 0.10000000000000001
+          hit_priority = 2
+          hit_stat = hits_torso
+      hurt_sound_event = player_hurt_grunt
+      mood_settings
+        dying_threshold = 0.32000000000000001
+        heartbeat_threshold = 0.68000000000000005
+        wounded_threshold = 0.68000000000000005
+      name = cliff_clean
+      perks
+        offensive_specialization_1 = push
+      skin_category = cliff
+      skin_subgroup = clean
+      speech_category = cliff
+      wielded_gear
+        1
+          name = unarmed
+  tutorial_save_data = 0
+  user_settings
+    debug
+      single_player_level = tutorial
+    fullscreen = 0
+    fullscreen_output = 0
+    gameplay
+      rumble_effect_activated = 1
+      subtitles_activated = 1
+    screen_resolution
+      1 = 1280
+      2 = 720
+    skins
+      axe = 0
+      cliff = 0
+      katana = 0
+      knife = 0
+      pistol = 0
+      shotgun = 0
+    sound
+      music_volume = 0
+      sfx_volume = 0
+      voice_over = 0
+    video
+      advanced
+        light_casts_shadows = 1
+        max_fps = 0
+        max_stacking_frames = -1
+        particles_quality = high
+        shadow_quality = high
+        texture_quality_characters = high
+        texture_quality_coat_of_arms = low
+        texture_quality_environment = high
+        vsync = 0
+      normal
+        gamma = 2.2000000000000002
+        graphics_quality = high
+      render_settings
+        blurpass_enabled = 1
+        fxaa_enabled = 1
+        lod_decoration_density = 0.10000000000000001
+        lod_object_multiplier = 0.59999999999999998
+        lod_scatter_density = 0
+        sobel_filter_cel_shading = 1
+        ssao_enabled = 1
+  version = 30

@@ -2079,7 +2079,7 @@
       current_main_level = l_beach
       last_comic_panel = comicpanel_01
       spawn_point = spawn_mission_03_start
-      visited_levels = 0
+      visited_levels
     profiles
       1
         armour = armour_light_peasant_rags
@@ -2134,7 +2134,7 @@
               up = 0.10000000000000001
             hit_priority = 2
             hit_stat = hits_torso
-        perks = 0
+        perks
         unlock_key = footman
         wielded_gear
           1
@@ -2194,7 +2194,7 @@
               up = 0.10000000000000001
             hit_priority = 2
             hit_stat = hits_torso
-        perks = 0
+        perks
         unlock_key = crossbowman
         wielded_gear
           1
@@ -2203,8 +2203,8 @@
       continue_available = 1
       item_progress_states
         l_beach
-          dynamic_items = 0
-          dynamic_units = 0
+          dynamic_items
+          dynamic_units
           items
             3192665
               stickers_on = 1
@@ -2372,13 +2372,13 @@
               broken = 0
             2102239344
               broken = 0
-          npc_spawners = 0
-          removed_units = 0
-          spawners = 0
+          npc_spawners
+          removed_units
+          spawners
           unit_id = 0
         l_boat
-          dynamic_items = 0
-          dynamic_units = 0
+          dynamic_items
+          dynamic_units
           items
             25510005
               broken = 0
@@ -2477,10 +2477,10 @@
               broken = 0
             2119171850
               interaction_enabled = 1
-          npc_spawners = 0
+          npc_spawners
           removed_units
             2119171850 = 1
-          spawners = 0
+          spawners
           unit_id = 0
         l_prologue
           dynamic_items
@@ -2488,7 +2488,7 @@
               gear_name = keycard_red_01
             2
               gear_name = keycard_red_02
-          dynamic_units = 0
+          dynamic_units
           items
             3048353
               state = 1
@@ -3264,7 +3264,7 @@
             1596128392 = 1
             1917198761 = 1
             1993521568 = 1
-          spawners = 0
+          spawners
           unit_id = 2
       object_sets
         l_beach
@@ -3395,8 +3395,8 @@
     reset_cache = 0
     silverlink
       auto_connect = 0
-      events = 0
-      features = 0
+      events
+      features
     sp_profiles
       agent_zero_prologue
         armour = player_base
@@ -3419,13 +3419,13 @@
           3
             name = katana_agent_zero
           4
-            attachments = 0
+            attachments
             name = keycard_red_01
           5
-            attachments = 0
+            attachments
             name = glock_tier2
           6
-            attachments = 0
+            attachments
             name = keycard_red_02
         health = 22
         hit_zones
@@ -3552,10 +3552,10 @@
           1
             name = unarmed
           2
-            attachments = 0
+            attachments
             name = dummy_item
           3
-            attachments = 0
+            attachments
             name = pocket_camera
         health = 2
         hit_zones
@@ -3608,7 +3608,7 @@
         wielded_gear
           1
             name = unarmed
-    tutorial_save_data = 0
+    tutorial_save_data
     user_settings
       debug
         single_player_level = tutorial
@@ -5135,7 +5135,7 @@
             up = 0.10000000000000001
           hit_priority = 2
           hit_stat = hits_torso
-      perks = 0
+      perks
       unlock_key = footman
       wielded_gear
         1
@@ -5195,7 +5195,7 @@
             up = 0.10000000000000001
           hit_priority = 2
           hit_stat = hits_torso
-      perks = 0
+      perks
       unlock_key = crossbowman
       wielded_gear
         1
@@ -5204,8 +5204,8 @@
     continue_available = 1
     item_progress_states
       l_beach
-        dynamic_items = 0
-        dynamic_units = 0
+        dynamic_items
+        dynamic_units
         items
           3192665
             stickers_on = 1
@@ -5377,12 +5377,12 @@
           1332407790 = 257950166
           1903413605 = 1023631782
           2132540317 = 769174393
-        removed_units = 0
-        spawners = 0
+        removed_units
+        spawners
         unit_id = 0
       l_boat
-        dynamic_items = 0
-        dynamic_units = 0
+        dynamic_items
+        dynamic_units
         items
           25510005
             broken = 0
@@ -5481,14 +5481,14 @@
             broken = 0
           2119171850
             interaction_enabled = 1
-        npc_spawners = 0
+        npc_spawners
         removed_units
           2119171850 = 1
-        spawners = 0
+        spawners
         unit_id = 0
       l_marina
-        dynamic_items = 0
-        dynamic_units = 0
+        dynamic_items
+        dynamic_units
         items
           3713041
             interaction_enabled = 1
@@ -5579,9 +5579,9 @@
             interaction_enabled = 1
           1956161925
             on = 1
-        npc_spawners = 0
-        removed_units = 0
-        spawners = 0
+        npc_spawners
+        removed_units
+        spawners
         unit_id = 0
       l_prologue
         dynamic_items
@@ -5589,7 +5589,7 @@
             gear_name = keycard_red_01
           2
             gear_name = keycard_red_02
-        dynamic_units = 0
+        dynamic_units
         items
           3048353
             state = 1
@@ -6365,11 +6365,11 @@
           1596128392 = 1
           1917198761 = 1
           1993521568 = 1
-        spawners = 0
+        spawners
         unit_id = 2
       t_airfield_to_marina
-        dynamic_items = 0
-        dynamic_units = 0
+        dynamic_items
+        dynamic_units
         items
           194147702
             broken = 0
@@ -6397,13 +6397,13 @@
           1844939568
             broken = 0
             interaction_enabled = 1
-        npc_spawners = 0
-        removed_units = 0
-        spawners = 0
+        npc_spawners
+        removed_units
+        spawners
         unit_id = 0
       t_beach_to_dlc_minor_01
-        dynamic_items = 0
-        dynamic_units = 0
+        dynamic_items
+        dynamic_units
         items
           138606848
             interaction_enabled = 1
@@ -6422,13 +6422,13 @@
           2066963827
             enabled = 1
             flicker_enabled = 0
-        npc_spawners = 0
-        removed_units = 0
-        spawners = 0
+        npc_spawners
+        removed_units
+        spawners
         unit_id = 0
       t_beach_to_helipadvista
-        dynamic_items = 0
-        dynamic_units = 0
+        dynamic_items
+        dynamic_units
         items
           189731332
             interaction_enabled = 0
@@ -6448,13 +6448,13 @@
           1234032498
             interaction_enabled = 1
             start_on = 0
-        npc_spawners = 0
-        removed_units = 0
-        spawners = 0
+        npc_spawners
+        removed_units
+        spawners
         unit_id = 0
       t_beach_to_marina
-        dynamic_items = 0
-        dynamic_units = 0
+        dynamic_items
+        dynamic_units
         items
           443428863
             broken = 0
@@ -6463,13 +6463,13 @@
             interaction_enabled = 1
           1261786514
             interaction_enabled = 1
-        npc_spawners = 0
-        removed_units = 0
-        spawners = 0
+        npc_spawners
+        removed_units
+        spawners
         unit_id = 0
       t_jungle_to_beach
-        dynamic_items = 0
-        dynamic_units = 0
+        dynamic_items
+        dynamic_units
         items
           465140419
             enabled = 1
@@ -6489,13 +6489,13 @@
           1968079724
             enabled = 1
             flicker_enabled = 0
-        npc_spawners = 0
-        removed_units = 0
-        spawners = 0
+        npc_spawners
+        removed_units
+        spawners
         unit_id = 0
       t_marina_to_dlc_minor_03
-        dynamic_items = 0
-        dynamic_units = 0
+        dynamic_items
+        dynamic_units
         items
           33663298
             open = 0
@@ -6514,13 +6514,13 @@
           1741556452
             enabled = 1
             flicker_enabled = 0
-        npc_spawners = 0
-        removed_units = 0
-        spawners = 0
+        npc_spawners
+        removed_units
+        spawners
         unit_id = 0
       t_marina_to_marina_inside
-        dynamic_items = 0
-        dynamic_units = 0
+        dynamic_items
+        dynamic_units
         items
           76201438
             broken = 0
@@ -6553,17 +6553,17 @@
             broken = 0
             interaction_enabled = 1
             start_opened = 0
-        npc_spawners = 0
-        removed_units = 0
-        spawners = 0
+        npc_spawners
+        removed_units
+        spawners
         unit_id = 0
       t_marina_to_marina_inside_vent
-        dynamic_items = 0
-        dynamic_units = 0
-        items = 0
-        npc_spawners = 0
-        removed_units = 0
-        spawners = 0
+        dynamic_items
+        dynamic_units
+        items
+        npc_spawners
+        removed_units
+        spawners
         unit_id = 0
     object_sets
       l_beach
@@ -6637,7 +6637,7 @@
       t_jungle_to_beach
         level = 0
         level_dont_hide = 0
-      t_marina_to_dlc_minor_03 = 0
+      t_marina_to_dlc_minor_03
       t_marina_to_marina_inside
         level = 0
         level_dont_hide = 0
@@ -6747,8 +6747,8 @@
   reset_cache = 0
   silverlink
     auto_connect = 0
-    events = 0
-    features = 0
+    events
+    features
   sp_profiles
     agent_zero_prologue
       armour = player_base
@@ -6771,13 +6771,13 @@
         3
           name = katana_agent_zero
         4
-          attachments = 0
+          attachments
           name = keycard_red_01
         5
-          attachments = 0
+          attachments
           name = glock_tier2
         6
-          attachments = 0
+          attachments
           name = keycard_red_02
       health = 22
       hit_zones
@@ -6904,13 +6904,13 @@
         1
           name = unarmed
         2
-          attachments = 0
+          attachments
           name = dummy_item
         3
-          attachments = 0
+          attachments
           name = pocket_camera
         4
-          attachments = 0
+          attachments
           name = map_item
       health = 2
       hit_zones
@@ -6963,7 +6963,7 @@
       wielded_gear
         1
           name = unarmed
-  tutorial_save_data = 0
+  tutorial_save_data
   user_settings
     debug
       single_player_level = tutorial

@@ -314,11 +314,11 @@
       zombies_killed_by_shotgun_close = 0
       zombies_killed_by_stealth_execute = 0
   cache
-    achievements = 0
-    collected_gear = 0
+    achievements
+    collected_gear
     dlcs
-      displayed = 0
-      session = 0
+      displayed
+      session
     level_save_data
       current_level = l_prologue
       current_main_level = l_prologue
@@ -377,7 +377,7 @@
               up = 0.10000000000000001
             hit_priority = 2
             hit_stat = hits_torso
-        perks = 0
+        perks
         unlock_key = footman
         wielded_gear
           1
@@ -437,20 +437,20 @@
               up = 0.10000000000000001
             hit_priority = 2
             hit_stat = hits_torso
-        perks = 0
+        perks
         unlock_key = crossbowman
         wielded_gear
           1
             name = unarmed
     progress_save_data
       continue_available = 0
-      item_progress_states = 0
-      object_sets = 0
-      progression_states = 0
+      item_progress_states
+      object_sets
+      progression_states
     silverlink
       auto_connect = 0
-      events = 0
-      features = 0
+      events
+      features
     sp_profiles
       agent_zero_prologue
         armour = player_base
@@ -642,7 +642,7 @@
         wielded_gear
           1
             name = unarmed
-    tutorial_save_data = 0
+    tutorial_save_data
     user_settings
       debug
         single_player_level = tutorial
@@ -709,7 +709,7 @@
     current_main_level = l_prologue
     last_comic_panel = loading_prologue
     spawn_point = spawn_mission_01_start
-    visited_levels = 0
+    visited_levels
   profiles
     1
       armour = armour_light_peasant_rags
@@ -764,7 +764,7 @@
             up = 0.10000000000000001
           hit_priority = 2
           hit_stat = hits_torso
-      perks = 0
+      perks
       unlock_key = footman
       wielded_gear
         1
@@ -824,7 +824,7 @@
             up = 0.10000000000000001
           hit_priority = 2
           hit_stat = hits_torso
-      perks = 0
+      perks
       unlock_key = crossbowman
       wielded_gear
         1
@@ -833,8 +833,8 @@
     continue_available = 1
     item_progress_states
       l_prologue
-        dynamic_items = 0
-        dynamic_units = 0
+        dynamic_items
+        dynamic_units
         items
           7410347
             interaction_enabled = 0
@@ -1455,9 +1455,9 @@
             broken = 0
           2140132311
             broken = 0
-        npc_spawners = 0
-        removed_units = 0
-        spawners = 0
+        npc_spawners
+        removed_units
+        spawners
         unit_id = 0
     object_sets
       l_prologue
@@ -1482,8 +1482,8 @@
       mission_01_active = 1
   silverlink
     auto_connect = 0
-    events = 0
-    features = 0
+    events
+    features
   sp_profiles
     agent_zero_prologue
       armour = player_base
@@ -1675,7 +1675,7 @@
       wielded_gear
         1
           name = unarmed
-  tutorial_save_data = 0
+  tutorial_save_data
   user_settings
     debug
       single_player_level = tutorial

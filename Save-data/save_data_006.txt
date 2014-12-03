@@ -2072,7 +2072,7 @@
       current_main_level = l_prologue
       last_comic_panel = comicpanel_00
       spawn_point = spawn_mission_01_radio_room
-      visited_levels = 0
+      visited_levels
     profiles
       1
         armour = armour_light_peasant_rags
@@ -2127,7 +2127,7 @@
               up = 0.10000000000000001
             hit_priority = 2
             hit_stat = hits_torso
-        perks = 0
+        perks
         unlock_key = footman
         wielded_gear
           1
@@ -2187,7 +2187,7 @@
               up = 0.10000000000000001
             hit_priority = 2
             hit_stat = hits_torso
-        perks = 0
+        perks
         unlock_key = crossbowman
         wielded_gear
           1
@@ -2199,7 +2199,7 @@
           dynamic_items
             1
               gear_name = keycard_red_01
-          dynamic_units = 0
+          dynamic_units
           items
             3048353
               state = 1
@@ -2939,7 +2939,7 @@
             1596128392 = 1
             1917198761 = 1
             1993521568 = 1
-          spawners = 0
+          spawners
           unit_id = 1
       object_sets
         l_prologue
@@ -3028,8 +3028,8 @@
     reset_cache = 0
     silverlink
       auto_connect = 0
-      events = 0
-      features = 0
+      events
+      features
     sp_profiles
       agent_zero_prologue
         armour = player_base
@@ -3052,10 +3052,10 @@
           3
             name = katana_agent_zero
           4
-            attachments = 0
+            attachments
             name = keycard_red_01
           5
-            attachments = 0
+            attachments
             name = glock_tier2
         health = 22
         hit_zones
@@ -3232,7 +3232,7 @@
         wielded_gear
           1
             name = unarmed
-    tutorial_save_data = 0
+    tutorial_save_data
     user_settings
       debug
         single_player_level = tutorial
@@ -4698,7 +4698,7 @@
     current_main_level = l_boat
     last_comic_panel = beach_01
     spawn_point = default_spawn
-    visited_levels = 0
+    visited_levels
   profiles
     1
       armour = armour_light_peasant_rags
@@ -4753,7 +4753,7 @@
             up = 0.10000000000000001
           hit_priority = 2
           hit_stat = hits_torso
-      perks = 0
+      perks
       unlock_key = footman
       wielded_gear
         1
@@ -4813,7 +4813,7 @@
             up = 0.10000000000000001
           hit_priority = 2
           hit_stat = hits_torso
-      perks = 0
+      perks
       unlock_key = crossbowman
       wielded_gear
         1
@@ -4822,8 +4822,8 @@
     continue_available = 1
     item_progress_states
       l_boat
-        dynamic_items = 0
-        dynamic_units = 0
+        dynamic_items
+        dynamic_units
         items
           25510005
             broken = 0
@@ -4922,9 +4922,9 @@
             broken = 0
           2119171850
             interaction_enabled = 0
-        npc_spawners = 0
-        removed_units = 0
-        spawners = 0
+        npc_spawners
+        removed_units
+        spawners
         unit_id = 0
       l_prologue
         dynamic_items
@@ -4932,7 +4932,7 @@
             gear_name = keycard_red_01
           2
             gear_name = keycard_red_02
-        dynamic_units = 0
+        dynamic_units
         items
           3048353
             state = 1
@@ -5708,7 +5708,7 @@
           1596128392 = 1
           1917198761 = 1
           1993521568 = 1
-        spawners = 0
+        spawners
         unit_id = 2
     object_sets
       l_boat
@@ -5811,8 +5811,8 @@
   reset_cache = 0
   silverlink
     auto_connect = 0
-    events = 0
-    features = 0
+    events
+    features
   sp_profiles
     agent_zero_prologue
       armour = player_base
@@ -5835,13 +5835,13 @@
         3
           name = katana_agent_zero
         4
-          attachments = 0
+          attachments
           name = keycard_red_01
         5
-          attachments = 0
+          attachments
           name = glock_tier2
         6
-          attachments = 0
+          attachments
           name = keycard_red_02
       health = 22
       hit_zones
@@ -6018,7 +6018,7 @@
       wielded_gear
         1
           name = unarmed
-  tutorial_save_data = 0
+  tutorial_save_data
   user_settings
     debug
       single_player_level = tutorial
